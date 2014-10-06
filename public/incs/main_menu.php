@@ -7,12 +7,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Balanced Team</a>
+            <a class="navbar-brand" href="#">Design Pattern</a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="home">Home</a></li>
-                <li><a href="formulario">Clientes</a></li>
+                <li><a href="formulario">Formulário</a></li>
             </ul>
         </div>
     </div>
